@@ -7,4 +7,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Develo_PagebuilderLazyloadImages', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Develodesign_PagebuilderLazyloadImages', __DIR__);
