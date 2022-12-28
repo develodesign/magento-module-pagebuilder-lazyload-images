@@ -27,8 +27,8 @@ Uses the modern browser loading="lazy" attribute on images added via page builde
 
 ### Zip file
 
- - Unzip the zip file in `app/code/Develodesign`
- - Enable the module by running `php bin/magento module:enable Develodesign_PagebuilderLazyLoadImages`
+ - Unzip the zip file in `app/code/Develodesign/PagebuilderLazyloadImages`
+ - Enable the module by running `php bin/magento module:enable Develodesign_PagebuilderLazyloadImages`
  - Apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
