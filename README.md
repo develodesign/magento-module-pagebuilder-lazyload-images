@@ -8,7 +8,8 @@
 
 ## Main Functionalities
 Uses the modern browser loading="lazy" attribute on images added via page builder. Can be turned on and off per image as needed.
-\* Do not turn on for images loaded above the fold, this causes layout shift (CLS). 
+
+* **Do not turn on for images loaded above the fold, this causes unnecessary layout shift (CLS).**
 
 
 ## Installation
