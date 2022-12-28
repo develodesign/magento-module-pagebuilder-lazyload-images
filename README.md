@@ -9,11 +9,8 @@
 ## Main Functionalities
 Uses the modern browser loading="lazy" attribute on images added via page builder. Can be turned on and off per image as needed.
 
+
 * **Do not turn on for images loaded above the fold, this causes unnecessary layout shift (CLS).**
-
-
-## Installation
-\* = in production please use the option `--keep-generated` 
 
 
 ### Composer
@@ -33,4 +30,5 @@ Uses the modern browser loading="lazy" attribute on images added via page builde
  - Apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
-
+## Installation
+  * = in production please use the option `--keep-generated` 
