@@ -3,7 +3,6 @@
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
  - [Configuration](#markdown-header-configuration)
- - [Attributes](#markdown-header-attributes)
 
 
 ## Main Functionalities
