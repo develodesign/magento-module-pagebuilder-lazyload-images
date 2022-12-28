@@ -9,5 +9,13 @@
             "name": "Luke Collymore",
             "email": "luke@develodesign.co.uk"
         }
-    ]
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Develodesign\\PagebuilderLazyloadImages\\": ""
+        }
+    }
 }
