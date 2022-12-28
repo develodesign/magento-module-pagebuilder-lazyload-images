@@ -31,3 +31,5 @@ Uses the modern browser loading="lazy" attribute on images added via page builde
 
 ## Installation
   * = in production please use the option `--keep-generated` 
+  
+![This is an image](https://raw.githubusercontent.com/develodesign/magento-module-pagebuilder-lazyload-images/main/screen.png)
