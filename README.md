@@ -17,7 +17,7 @@ Uses the modern browser loading="lazy" attribute on images added via page builde
  ```
  composer require develodesign/magento-module-pagebuilder-lazyload-images
 
- bin/magento module:enable Develodesign_PagebuilderLazyLoadImages
+ bin/magento module:enable Develodesign_PagebuilderLazyloadImages
  bin/magento setup:upgrade
  bin/magento cache:flush
 ```
